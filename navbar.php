@@ -15,7 +15,7 @@
                     </a>
                 </span>
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-4" href="#">Adarsh Institute of Pharmacy
-<br>(D.Pharm), Vita. &nbsp;</a></span>
+<br>(D.Pharm), Vita &nbsp;</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
