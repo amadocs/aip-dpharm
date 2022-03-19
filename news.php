@@ -9,7 +9,7 @@
   
   <link rel="shortcut icon" href="assets/images/aip2-218x173.png" type="image/x-icon">
   <meta name="description" content="Adarsh Institute of Pharmacy (D.Pharm.), Vita provides pharmacy education to the poor and needy deserving students in rural area and to create competent and technically sound pharmacists to advance human health and quality of life. The college is located in 3 acres area and has total built up area of 1535sq.m. The college is having fully equipped and well-furnished laboratories, spacious library along with adequate books. ">
-  <title>Home</title>
+  <title>Home  | Adarsh Institute of Pharmacy(D.Pharm), Vita</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">

@@ -7,7 +7,7 @@
   <meta name="keywords" content="aip-vita,adarsh,adarsh pharmacy college vita, vita pharmacy college, agiv, agiv vita,adarsh college vita,adarsh group of institutions vita, adarsh institute of pharmacy vita, adarshpharmacy.edu.in" />
   <link rel="shortcut icon" href="assets/images/aip2-218x173.png" type="image/x-icon">
   <meta name="description" content="Adarsh Institute of Pharmacy (D.Pharm.), Vita - Contact-Us">
-  <title>Student Grievance</title>
+  <title>Student Grievance  | Adarsh Institute of Pharmacy(D.Pharm), Vita</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">

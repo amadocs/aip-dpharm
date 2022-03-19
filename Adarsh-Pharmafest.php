@@ -7,7 +7,7 @@
   <link rel="shortcut icon" href="assets/images/aip2-218x173.png" type="image/x-icon">
   <meta name="keywords" content="aip-vita,adarsh,adarsh pharmacy college vita, vita pharmacy college, agiv, agiv vita,adarsh college vita,adarsh group of institutions vita, adarsh institute of pharmacy vita, adarshpharmacy.edu.in" />
   <meta name="description" content="Adarsh Institute of Pharmacy (D.Pharm.), Vita - Adarsh Pharmafest 2017">
-  <title>Adarsh-Pharmafest</title>
+  <title>Adarsh-Pharmafest  | Adarsh Institute of Pharmacy(D.Pharm), Vita</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
