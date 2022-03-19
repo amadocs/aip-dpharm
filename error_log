@@ -1,0 +1,20 @@
+[03-Mar-2018 12:15:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'adarshpharmacyed_a'@'localhost' (using password: YES) in /home/adarshpharmacyed/public_html/10/config.php on line 2
+[03-Mar-2018 12:15:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/adarshpharmacyed/public_html/10/config.php on line 3
+[03-Mar-2018 12:15:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/adarshpharmacyed/public_html/10/news-submitted2.php on line 7
+[03-Mar-2018 12:15:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/adarshpharmacyed/public_html/10/news-submitted2.php on line 15
+[03-Mar-2018 12:17:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/adarshpharmacyed/public_html/10/news-submitted2.php on line 15
+[25-May-2018 22:47:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/adarshpharmacyed/public_html/config.php:2
+Stack trace:
+#0 /home/adarshpharmacyed/public_html/news-submitted2.php(3): include()
+#1 /home/adarshpharmacyed/public_html/index.php(80): include('/home/adarshpha...')
+#2 {main}
+  thrown in /home/adarshpharmacyed/public_html/config.php on line 2
+[31-Oct-2019 18:50:51 UTC] PHP Fatal error:  Directive 'register_globals' is no longer available in PHP in Unknown on line 0
+[17-Nov-2019 09:20:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[11-Dec-2019 23:59:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[15-Dec-2019 03:16:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[16-Dec-2019 03:54:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[26-Dec-2019 18:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[01-Jan-2020 19:29:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[05-Mar-2020 17:18:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
+[07-May-2020 17:36:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/adarshpharmacyed/public_html/config.php on line 2
